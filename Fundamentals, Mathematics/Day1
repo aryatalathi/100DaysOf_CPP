@@ -1,1 +1,11 @@
 
+1. Count all the possible paths from top left to bottom right of a MxN matrix
+with the constraints that from each cell you can either move to right or down.
+
+
+2. Tom and Jerry play a game with a number N. They will play the game alternatively and
+each of them would subtract a number n [n such that N%n = 0. The game is repeated
+turn by turn until the one, who now cannot make a further move loses the game. 
+The game begins with Tom playing the first move.
+It is well understood that both of them will make moves in an optimal way. The task is to determine who wins the game.
+ 
