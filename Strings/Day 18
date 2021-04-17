@@ -1,0 +1,2 @@
+Given a string s consisting only lower case alphabets, find the minimum number of changes required to it so that all substrings of the string become distinct.
+Note: length of the string is at most 26.
