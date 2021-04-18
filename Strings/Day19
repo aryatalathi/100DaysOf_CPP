@@ -1,0 +1,4 @@
+N balls are arranged in a row. The initial color of each ball is represented by string
+S of lengthN. The ball is painted black if the ith character of the string is ′B′ and white if the ith character of the string is ′W′
+You want to repaint some of the balls black or white so that none of the two adjacent balls having the same color.
+Find how many balls you have to repaint to satisfy the above condition
