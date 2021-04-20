@@ -1,0 +1,2 @@
+Given two strings X and Y of lengths m and n respectively, find the length of the smallest string which has both, X and Y as its sub-sequences.
+Note: X and Y can have both uppercase and lowercase letters.
