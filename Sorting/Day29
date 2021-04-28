@@ -1,0 +1,3 @@
+Maximum Intervals Overlap
+Consider a big party where N guests came to it and a log register for guest’s entry and exit times was maintained. 
+Find the minimum time at which there were maximum guests at the party. Note that entries in the register are not in any order.
