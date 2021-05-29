@@ -1,0 +1,1 @@
+Given binary string str of size N the task is to check if the given string is valid or not. A string is called valid if the number of 0's equals the number of 1's and at any moment starting from the left of the string number 0's must be greater than or equals to the number of 1's.
