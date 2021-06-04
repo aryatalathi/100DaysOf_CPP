@@ -1,0 +1,2 @@
+Given a stack with push(), pop(), empty() operations, delete the middle of the stack without using any additional data structure.
+Middle: ceil(size_of_stack/2.0)
