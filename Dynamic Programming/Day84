@@ -1,0 +1,1 @@
+You have a rectangular grid mat of dimension 2 x N. You need to find out the maximum sum such that no two chosen numbers are adjacent, vertically, diagonally or horizontally.
