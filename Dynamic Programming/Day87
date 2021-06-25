@@ -1,0 +1,6 @@
+You are given n days and for each day (di) you can select one of the following options:
+
+1. perform no task 
+2. perform a high effort task (hi) only if its the first day or if you chose no-task on the previous day
+3. perform a low effort task (li)
+Write a program to find the maximum amount of tasks you can perform within these n days. 
