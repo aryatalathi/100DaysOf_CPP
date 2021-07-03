@@ -1,0 +1,1 @@
+Given an array Arr of size N, each element of the array represents the amount of calories, the task is to calculate the maximum of amount of calories you can get remembering the fact that you cannot take three consecutive calories.
