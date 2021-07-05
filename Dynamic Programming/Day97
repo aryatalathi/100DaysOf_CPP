@@ -1,0 +1,6 @@
+A Lucas Number is a number which is represented by the following recurrence
+Ln = Ln-1 + Ln-2 for n>1
+L0 = 2
+L1 = 1
+
+Given a number N, find the Nth lucas number.
